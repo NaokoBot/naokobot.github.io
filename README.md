@@ -1,2 +1,1 @@
-# naokobot.github.io
 .
