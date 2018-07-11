@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="naokobot.github.io" resolutions="1x" timestamp="1530538718402">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="naokobot.github.io" resolutions="1x" timestamp="1531342319841">
   <folder name="css">
     <file name="site_global.css" crc="3915333604"/>
-    <file name="index.css" crc="3800894552" ref="index"/>
+    <file name="index.css" crc="3772692425" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -15,16 +15,23 @@
   <folder name="images">
     <file name="home--naoko-favicon.ico" crc="338940797" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u3559.png" crc="435733053" ref="index"/>
-    <file name="u3559-r.png" crc="3891733497" ref="index"/>
-    <file name="u3559-m.png" crc="296492608" ref="index"/>
-    <file name="u23668-4.png" crc="156404494" ref="index"/>
-    <file name="u23600-4.png" crc="3926673640" ref="index"/>
-    <file name="u23671-4.png" crc="450055421" ref="index"/>
-    <file name="u23616-4.png" crc="4018001277" ref="index"/>
-    <file name="05.jpg" crc="107438902" ref="index">
+    <file name="u3559.png" crc="189377087" ref="index"/>
+    <file name="u3559-r.png" crc="40604438" ref="index"/>
+    <file name="u3559-m.png" crc="501929337" ref="index"/>
+    <file name="u23600-4.png" crc="150597955" ref="index"/>
+    <file name="u3561_states.png" crc="4176773514" ref="index"/>
+    <file name="u3561_states-r.png" crc="350877595" ref="index"/>
+    <file name="u3561_states-m.png" crc="46992449" ref="index"/>
+    <file name="u3562_states.png" crc="280294595" ref="index"/>
+    <file name="u3562_states-r.png" crc="14132791" ref="index"/>
+    <file name="u3562_states-m.png" crc="494682613" ref="index"/>
+    <file name="u23616-4.png" crc="473315342" ref="index"/>
+    <file name="u23613_states.png" crc="3779809322" ref="index"/>
+    <file name="u23613_states-r.png" crc="4078378801" ref="index"/>
+    <file name="u23613_states-m.png" crc="386132684" ref="index"/>
+    <file name="picture.jpg" crc="4191065878" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="283044150" seo="true" mt="1530538184240" redirect="true"/>
+  <file name="index.html" crc="4154956634" seo="true" mt="1531342289655" redirect="true"/>
 </manifest>
